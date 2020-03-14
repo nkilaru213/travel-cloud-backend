@@ -1,0 +1,53 @@
+[
+    {
+        "name" : "Waterfront",
+        "destination": "5e6c023d44894d5184e0327d",
+        "description":"the boardwalk is the number one visited attraction in Nova Scotia…so you know it’s worthy of a visit!"
+    },
+    
+    {
+        "name" : "Halifax Public Gardens",
+        "destination":"5e6c023d44894d5184e0327d",
+        "description":"The Halifax Public Gardens are Victorian era public gardens formally established in 1867, the year of Canadian Confederation. The gardens are located in the Halifax Regional Municipality, Nova Scotia on the Halifax Peninsula near the popular shopping district of Spring Garden Road and opposite Victoria Park." 
+    },
+     
+    {
+        "name" : "Halifax Library",
+        "destination":"5e6c023d44894d5184e0327d",
+        "description":"The Halifax Public Gardens are Victorian era public gardens formally established in 1867, the year of Canadian Confederation. The gardens are located in the Halifax Regional Municipality, Nova Scotia on the Halifax Peninsula near the popular shopping district of Spring Garden Road and opposite Victoria Park." 
+    },
+
+    {
+        "name" : "Halifax park",
+        "destination":"5e6c023d44894d5184e0327d",
+        "description":"The Halifax Public Gardens are Victorian era public gardens formally established in 1867, the year of Canadian Confederation. The gardens are located in the Halifax Regional Municipality, Nova Scotia on the Halifax Peninsula near the popular shopping district of Spring Garden Road and opposite Victoria Park." 
+    },
+
+    {
+        "name" : "Toronto airport",
+        "destination":"5e6c023c44894d5184e0327c",
+        "description":"The Halifax Public Gardens are Victorian era public gardens formally established in 1867, the year of Canadian Confederation. The gardens are located in the Halifax Regional Municipality, Nova Scotia on the Halifax Peninsula near the popular shopping district of Spring Garden Road and opposite Victoria Park." 
+    },
+    {
+        "name" : "Tronto gradens",
+        "destination":"5e6c023c44894d5184e0327c",
+        "description":"The Halifax Public Gardens are Victorian era public gardens formally established in 1867, the year of Canadian Confederation. The gardens are located in the Halifax Regional Municipality, Nova Scotia on the Halifax Peninsula near the popular shopping district of Spring Garden Road and opposite Victoria Park." 
+    },
+    {
+        "name" : "Toronto library",
+        "destination":"5e6c023c44894d5184e0327c",
+        "description":"The Halifax Public Gardens are Victorian era public gardens formally established in 1867, the year of Canadian Confederation. The gardens are located in the Halifax Regional Municipality, Nova Scotia on the Halifax Peninsula near the popular shopping district of Spring Garden Road and opposite Victoria Park." 
+    },
+    {
+        "name" : "Toronto park",
+        "destination":"5e6c023c44894d5184e0327c",
+        "description":"The Halifax Public Gardens are Victorian era public gardens formally established in 1867, the year of Canadian Confederation. The gardens are located in the Halifax Regional Municipality, Nova Scotia on the Halifax Peninsula near the popular shopping district of Spring Garden Road and opposite Victoria Park." 
+    },
+    {
+        "name" : "Toronto Zoo",
+        "destination":"5e6c023c44894d5184e0327c",
+        "description":"The Halifax Public Gardens are Victorian era public gardens formally established in 1867, the year of Canadian Confederation. The gardens are located in the Halifax Regional Municipality, Nova Scotia on the Halifax Peninsula near the popular shopping district of Spring Garden Road and opposite Victoria Park." 
+    }
+
+
+]
